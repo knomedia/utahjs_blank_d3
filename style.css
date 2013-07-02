@@ -1,0 +1,14 @@
+body {
+  background-color: #0c2023;
+  font-family: "Source Sans Pro", Helvetica;
+  color: #CCC;
+}
+
+#wrapper {
+  width: 960px;
+  margin: 0 auto;
+}
+
+.bright {
+  fill: #abe4f7;
+}
