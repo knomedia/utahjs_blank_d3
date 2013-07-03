@@ -9,6 +9,10 @@ body {
   margin: 0 auto;
 }
 
+#chart svg{
+  background-color: #112527;
+}
+
 .bright {
   fill: #abe4f7;
 }
