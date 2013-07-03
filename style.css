@@ -12,3 +12,18 @@ body {
 .bright {
   fill: #abe4f7;
 }
+
+.axis .tick {
+  fill: #6b99a9;
+  stroke: #6b99a9;
+  font-size: 0.85em;
+}
+
+.axis {
+  opacity: 0.25;
+}
+
+.axis path {
+  fill: #6b99a9;
+  stroke: #6b99a9;
+}
